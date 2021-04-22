@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello World! This is Ishani Saravanan 👋
 
-<!--
-**ishani1124/ishani1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="320" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I am a Sophomore, persuing Computer Science and Engineering at Panimalar Engineering College.
+  I am a problem solver, creative thinker, reader and a motivator 
+  who love to code and would like to contribute my works here.
+   
+
+- 🔭 I’m currently making few projects in Python.
+- 🌱 I’m currently practicing to solve problems in C++ and a bit into CP.
+- 👯 Looking to collaborate with anyone who is interested in technology.
+- 💬 Ask me about Anything.
+- 📫 Connect me in LinkedIn - Ishani Saravanan.
+- 😄 Together, we can Grow.
+- ⚡ Fun fact: I am a fast bowler.
+
+HAVE A NICE DAY!
