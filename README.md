@@ -17,3 +17,5 @@
 - ⚡ Fun fact: I am a fast bowler.
 
 HAVE A NICE DAY!
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishani1124" alt="ishani1124" /> </p>
