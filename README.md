@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning Web development and making few projects in Python.
 - 👯 Looking to collaborate with anyone who is interested in technology.
 - 😄 Connect me <a href="https://www.linkedin.com/in/ishani-saravanan-828a511b9/">Ishani Saravanan</a>
-- 💬 Ask me Anything.
 - 😄 Together, we can Grow.
 - ⚡ Fun fact: I am a fast bowler.
 
