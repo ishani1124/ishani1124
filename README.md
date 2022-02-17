@@ -1,6 +1,9 @@
 ### 👋 Hello World! This is  <a href="https://www.linkedin.com/in/ishani-saravanan-828a511b9/" target="_blank">Ishani Saravanan</a>
-
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="440" height="340" />
+<!-- 
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="440" height="340" /> -->
+  <img align="right" alt="GIF" src="https://media.istockphoto.com/vectors/female-designer-working-late-in-room-flat-vector-illustration-vector-id1288871394?b=1&k=20&m=1288871394&s=612x612&w=0&h=_zmjhhdpu5CC6M8eWwjFQHsCbgtwTaQSiZUyI_t9bGg=" width="440" height="340" />
+ 
+ 
 <strong>
  
   I am a 3rd year student, pursuing Computer Science and Engineering at Panimalar Engineering College. 
@@ -20,13 +23,8 @@
 
 <hr>
 
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=ishani1124&show_icons=true&theme=tokyonight"/>   </p>
-
-<hr>
- 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishani1124&theme=tokyonight) -->
-
-
+| ![Ishani GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ishani1124&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishani1124&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+| --- | --- |
 
 
 <h3 align="center">Languages I Use:</h3>
@@ -39,16 +37,13 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
- 
+</p> 
  
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="margin-right:2px">
 <a href="https://www.linkedin.com/in/ishani-saravanan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ishani-saravanan/" height="30" width="40" /></a>
  <a href="https://twitter.com/ishani1124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ishani1124" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ishuma_1124/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ishuma_1124" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ishuma_1124/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ishuma_1124" height="30" width="40" /></a>  </p>
  
-</p>
- </p>
- 
- 
- 
+
+
