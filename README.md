@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="440" height="340" />
 <strong>
  
-  I am a 3rd year student, pursuing Computer Science and Engineering at Panimalar Engineering College.
+  I am a 3rd year student, pursuing Computer Science and Engineering at Panimalar Engineering College. 
   I am a problem solver, creative thinker, reader and motivator 
   who loves to code and would like to contribute my works here.
  </strong>
@@ -13,9 +13,9 @@
 - 🔭 I’m currently practicing to solve problems in C++ and a bit into CP(2* @Codechef).
 - 🌱 I’m currently learning Web development and making few projects in Python.
 - 👯 Looking to collaborate with anyone who is interested in technology.
-- 😄 Connect me <a href="https://www.linkedin.com/in/ishani-saravanan-828a511b9/" target="_blank">Ishani Saravanan</a>
+- 😄 Connect with me <a href="https://www.linkedin.com/in/ishani-saravanan-828a511b9/" target="_blank">Ishani Saravanan</a>
 - 😄 Together, we can Grow.
-- ⚡ Fun fact: I am a fast bowler.
+- ⚡ Fun fact: I hate Coffee, but I code.
 </strong>
 
 <hr>
@@ -29,7 +29,7 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages I Use:</h3>
 <p align="center"> 
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -46,6 +46,7 @@
 <a href="https://www.linkedin.com/in/ishani-saravanan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ishani-saravanan/" height="30" width="40" /></a>
  <a href="https://twitter.com/ishani1124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ishani1124" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ishuma_1124/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ishuma_1124" height="30" width="40" /></a>
+ 
 </p>
  </p>
  
