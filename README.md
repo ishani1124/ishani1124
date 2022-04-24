@@ -13,12 +13,12 @@
 
 <strong>
 
-- 🔭 I’m currently practicing to solve problems in C++ and a bit into CP(2* @Codechef).
-- 🌱 I’m currently learning Web development and making few projects in Python.
+- 🔭 I’m currently practicing to solve DSA problems in C++.
+- 🌱 I’m currently learning Web development and making few projects in it.
 - 👯 Looking to collaborate with anyone who is interested in technology.
 - 😄 Connect with me <a href="https://www.linkedin.com/in/ishani-saravanan-828a511b9/" target="_blank">Ishani Saravanan</a>
 - 😄 Together, we can Grow.
-- ⚡ Fun fact: I hate Coffee, but I code.
+- ⚡ Fun fact: I hate Coffee.
  
 </strong>
 
@@ -44,7 +44,7 @@
 <p align="center" style="margin-right:2px">
 <a href="https://www.linkedin.com/in/ishani-saravanan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ishani-saravanan/" height="30" width="40" /></a>
  <a href="https://twitter.com/ishani1124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ishani1124" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ishuma_1124/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ishuma_1124" height="30" width="40" /></a>  </p>
+<a href="https://www.instagram.com/i.shai_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i.shai_" height="30" width="40" /></a>  </p>
  
 
 
