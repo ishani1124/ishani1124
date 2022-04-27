@@ -13,11 +13,10 @@
 
 <strong>
 
-- 🔭 I’m currently practicing to solve DSA problems in C++.
-- 🌱 I’m currently learning Web development and making few projects in it.
+- 🔭 I’m currently practicing to solve DSA problems using C++.
+- 🌱 I’m currently learning Web development.
 - 👯 Looking to collaborate with anyone who is interested in technology.
 - 😄 Connect with me <a href="https://www.linkedin.com/in/ishani-saravanan-828a511b9/" target="_blank">Ishani Saravanan</a>
-- 😄 Together, we can Grow.
 - ⚡ Fun fact: I hate Coffee.
  
 </strong>
