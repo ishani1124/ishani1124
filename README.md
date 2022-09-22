@@ -6,7 +6,7 @@
  
 <strong>
  
-  I am a 3rd year student, pursuing Computer Science and Engineering at Panimalar Engineering College. 
+  I am a final year student, pursuing Computer Science and Engineering at Panimalar Engineering College. 
   I am a problem solver, creative thinker, reader and motivator 
   who loves to code and would like to contribute my works here.
  </strong>
