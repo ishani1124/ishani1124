@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Web development.
 - 👯 Looking to collaborate with anyone who is interested in technology.
 - 😄 Connect with me <a href="https://www.linkedin.com/in/ishani-saravanan-828a511b9/" target="_blank">Ishani Saravanan</a>
-- ⚡ Fun fact: I hate Coffee but I code.
+- ⚡ Fun fact: I hate Coffee but I Code.
  
 </strong>
 
@@ -43,7 +43,7 @@
 <p align="center" style="margin-right:2px">
 <a href="https://www.linkedin.com/in/ishani-saravanan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ishani-saravanan/" height="30" width="40" /></a>
  <a href="https://twitter.com/ishani1124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ishani1124" height="30" width="40" /></a>
-<a href="https://www.instagram.com/i.shai_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i.shai_" height="30" width="40" /></a>  </p>
+</p>
  
 
 
