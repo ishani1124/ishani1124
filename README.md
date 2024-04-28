@@ -1,6 +1,6 @@
 ### 👋 Hello World! This is  <a href="https://www.linkedin.com/in/ishani-saravanan-828a511b9/" target="_blank">Ishani Saravanan</a>
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="340" height="290" /> 
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300" height="190" /> 
 <!--   <img align="right" alt="GIF" src="https://media.istockphoto.com/vectors/female-designer-working-late-in-room-flat-vector-illustration-vector-id1288871394?b=1&k=20&m=1288871394&s=612x612&w=0&h=_zmjhhdpu5CC6M8eWwjFQHsCbgtwTaQSiZUyI_t9bGg=" width="440" height="340" />-->
  
  
