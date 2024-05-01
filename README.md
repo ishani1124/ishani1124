@@ -11,7 +11,7 @@
 
 <strong>
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning AEM & React.
 - 👯 Looking to collaborate with anyone who is interested in technology.
 - 😄 Connect with me <a href="https://www.linkedin.com/in/ishani-saravanan-828a511b9/" target="_blank">Ishani Saravanan</a>
 - ⚡ Fun fact: I hate Coffee but I Code.
