@@ -5,7 +5,7 @@
  
  
 <strong>
-  I'm Ishani, a passionate Software Engineer, and pursued Computer Science and Engineering at Panimalar Engineering College.  
+  I'm Ishani, a Software Engineer, and pursued Computer Science and Engineering at Panimalar Engineering College.  
  
  </strong>
 
@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning AEM & React.
 - 👯 Looking to collaborate with anyone who is interested in technology.
 - 😄 Connect with me <a href="https://www.linkedin.com/in/ishani-saravanan-828a511b9/" target="_blank">Ishani Saravanan</a>
-- ⚡ Fun fact: I hate Coffee but I Code.
  
 </strong>
 
