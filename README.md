@@ -11,7 +11,6 @@
 
 <strong>
 
-- 🌱 I’m currently learning AEM & React.
 - 👯 Looking to collaborate with anyone who is interested in technology.
 - 😄 Connect with me <a href="https://www.linkedin.com/in/ishani-saravanan-828a511b9/" target="_blank">Ishani Saravanan</a>
  
@@ -43,7 +42,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="margin-right:2px">
 <a href="https://www.linkedin.com/in/ishani-saravanan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ishani-saravanan/" height="30" width="40" /></a>
- <a href="https://twitter.com/ishani1124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ishani1124" height="30" width="40" /></a>
 </p>
  
 
